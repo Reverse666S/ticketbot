@@ -359,7 +359,7 @@ https://dein-username.github.io/ticket-transcripts/transcripts/
 ✓ Thread nicht archiviert?
 ```
 
-### Weitere Hilfe benätigt
+### Weitere Hilfe benötigt
 ```
 ✓ Kontaktiere RandomAuto
 
